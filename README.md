@@ -1,7 +1,7 @@
 ## Welcome!
 - 👋 Hi, I’m @vinifoliv, student of Computer Science, eager to create great things!
 - 🌱 Currently, I am focusing on developing projects for self-education. Since I really want to know how things work under the hood, I defined aset of projects to make my knowledge more solid and, of course, to make it larger. 
-- 👀 Projects I intend to develop: web server, compilator (to decide if it is for C or for a new language), garbage collect, and an operating system.
+- 👀 Projects I intend to develop: web server, compilator (to decide if it is for C or for a new language), garbage collector, and an operating system.
 
 ## Contact
 - 📫 I am looking for a job in my study field and I would really appreciate any opportunity, be it as an intern in software development and related areas, be it as a junior employee, also in related areas. Below I left my social media accounts for contact:
